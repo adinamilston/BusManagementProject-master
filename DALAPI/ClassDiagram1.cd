@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DO.AdjacentStations">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>DO\AdjacentStations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DO.BusLine" Collapsed="true">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAgAAAAAAgAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DO\BusLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DO.BusStation">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAoAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DO\BusStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DO.LineExit">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAQAAAIgAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>DO\LineExit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
